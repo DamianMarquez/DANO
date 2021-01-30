@@ -45,7 +45,13 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	
+   <dependency>
+     <groupId>top.jfunc.json</groupId>
+     <artifactId>json-jsonsmart</artifactId>
+     <version>1.8.3</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
