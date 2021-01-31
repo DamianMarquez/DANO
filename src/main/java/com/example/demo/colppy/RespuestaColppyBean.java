@@ -2,7 +2,7 @@ package com.example.demo.colppy;
 
 import top.jfunc.json.impl.JSONObject;
 
-public class RespuestaColppy {
+public class RespuestaColppyBean {
     private String service;
     private String result;
     private String response;
